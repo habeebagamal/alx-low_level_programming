@@ -11,7 +11,7 @@ int main(void)
 
 	for (i = 48; i < 58; i++)
 	{
-		printf(i);
+		printchar(i);
 	}
 	
 	for (i = 97; i < 103; i++)
